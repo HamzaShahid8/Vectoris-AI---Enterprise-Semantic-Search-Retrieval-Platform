@@ -1,0 +1,7 @@
+Meeting Room Rules:
+
+Meeting rooms must be booked in advance using the company calendar.
+If a meeting is cancelled, the booking should be removed immediately.
+Do not exceed the scheduled time if another team has booked the next slot.
+Food is not allowed inside meeting rooms.
+Projectors and conference equipment should be turned off after use.
